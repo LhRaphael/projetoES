@@ -4,9 +4,9 @@
     "professor": "Eliabe Afonso de Sousa",
     "periodo": 1,
     "horarios": [
-      "Segunda 07h00-07h50",
-      "Segunda 07h50-08h40",
-      "Segunda 08h40-09h30"
+      "seg1",
+      "seg2",
+      "seg3"
     ]
   },
   {
@@ -14,8 +14,8 @@
     "professor": "Francisco Igor Arraes Alves Rocha",
     "periodo": 1,
     "horarios": [
-      "Segunda 09h45-10h35",
-      "Segunda 10h35-11h25"
+      "seg4",
+      "seg5"
     ]
   },
   {
@@ -23,12 +23,12 @@
     "professor": "Fabio Gomes de Andrade",
     "periodo": 1,
     "horarios": [
-      "Terça 07h00-07h50",
-      "Terça 07h50-08h40",
-      "Quinta 07h00-07h50",
-      "Quinta 07h50-08h40",
-      "Quinta 08h40-09h30",
-      "Sexta 10h35-11h25"
+      "ter1",
+      "ter2",
+      "qui1",
+      "qui2",
+      "qui3",
+      "sex5"
     ]
   },
   {
@@ -36,10 +36,10 @@
     "professor": "Joao Paulo Freitas de Oliveira",
     "periodo": 1,
     "horarios": [
-      "Terça 08h40-09h30",
-      "Quarta 08h40-09h30",
-      "Quarta 09h45-10h35",
-      "Quarta 10h35-11h25"
+      "ter3",
+      "qua3",
+      "qua4",
+      "qua5"
     ]
   },
   {
@@ -47,8 +47,8 @@
     "professor": "Daniela Miguel de Souza Morais",
     "periodo": 1,
     "horarios": [
-      "Terça 09h45-10h35",
-      "Terça 10h35-11h25"
+      "ter4",
+      "ter5"
     ]
   },
   {
@@ -56,10 +56,10 @@
     "professor": "Leilyanne Silva de Morais",
     "periodo": 1,
     "horarios": [
-      "Quarta 07h00-07h50",
-      "Quarta 07h50-08h40",
-      "Quinta 09h45-10h35",
-      "Quinta 10h35-11h25"
+      "qua1",
+      "qua2",
+      "qui4",
+      "qui5"
     ]
   },
   {
@@ -67,10 +67,10 @@
     "professor": "Diogo Dantas Moreira",
     "periodo": 1,
     "horarios": [
-      "Sexta 07h00-07h50",
-      "Sexta 07h50-08h40",
-      "Sexta 08h40-09h30",
-      "Sexta 09h45-10h35"
+      "sex1",
+      "sex2",
+      "sex3",
+      "sex4"
     ]
   },
   {
@@ -78,10 +78,10 @@
     "professor": "Fabio Abrantes Diniz",
     "periodo": 2,
     "horarios": [
-      "Quinta 13h00-13h50",
-      "Quinta 13h50-14h40",
-      "Sexta 13h00-13h50",
-      "Sexta 13h50-14h40"
+      "qui6",
+      "qui7",
+      "sex6",
+      "sex7"
     ]
   },
   {
@@ -89,9 +89,9 @@
     "professor": "Francisco Daladier Marques Junior",
     "periodo": 2,
     "horarios": [
-      "Quarta 14h40-15h30",
-      "Quarta 15h45-16h35",
-      "Quarta 16h35-17h25"
+      "qua8",
+      "qua9",
+      "qua10"
     ]
   },
   {
@@ -99,12 +99,12 @@
     "professor": "Cicero Aristofanio Garcia de Araujo",
     "periodo": 2,
     "horarios": [
-      "Segunda 14h40-15h30",
-      "Segunda 15h45-16h35",
-      "Segunda 16h35-17h25",
-      "Terça 14h40-15h30",
-      "Terça 15h45-16h35",
-      "Terça 16h35-17h25"
+      "seg8",
+      "seg9",
+      "seg10",
+      "ter8",
+      "ter9",
+      "ter10"
     ]
   },
   {
@@ -112,10 +112,10 @@
     "professor": "Joao Igor Barros Rocha",
     "periodo": 2,
     "horarios": [
-      "Quinta 14h40-15h30",
-      "Sexta 14h40-15h30",
-      "Sexta 15h45-16h35",
-      "Sexta 16h35-17h25"
+      "qui8",
+      "sex8",
+      "sex9",
+      "sex10"
     ]
   },
   {
@@ -123,10 +123,10 @@
     "professor": "Vinicius Martins Teodosio Rocha",
     "periodo": 2,
     "horarios": [
-      "Terça 13h00-13h50",
-      "Terça 13h50-14h40",
-      "Quarta 13h00-13h50",
-      "Quarta 13h50-14h40"
+      "ter6",
+      "ter7",
+      "qua6",
+      "qua7"
     ]
   },
   {
@@ -134,8 +134,8 @@
     "professor": "Francisco Paulo de Freitas Neto",
     "periodo": 2,
     "horarios": [
-      "Segunda 13h00-13h50",
-      "Segunda 13h50-14h40"
+      "seg6",
+      "seg7"
     ]
   },
   {
@@ -143,8 +143,8 @@
     "professor": "Eva Maria Campos Pereira",
     "periodo": 2,
     "horarios": [
-      "Quinta 14h40-15h30",
-      "Quinta 15h45-16h35"
+      "qui8",
+      "qui9"
     ]
   },
   {
@@ -152,10 +152,10 @@
     "professor": "Francisco Paulo de Freitas Neto",
     "periodo": 3,
     "horarios": [
-      "Segunda 7h00-7h50",
-      "Segunda 7h50-8h40",
-      "Terça 7h00-7h50",
-      "Terça 7h50-8h40"
+      "seg1",
+      "seg2",
+      "ter1",
+      "ter2"
     ]
   },
   {
@@ -163,10 +163,10 @@
     "professor": "Fabio Gomes de Andrade",
     "periodo": 3,
     "horarios": [
-      "Segunda 7h00-7h50",
-      "Segunda 7h50-8h40",
-      "Terça 8h40-9h30",
-      "Terça 9h45-10h35"
+      "seg1",
+      "seg2",
+      "ter3",
+      "ter4"
     ]
   },
   {
@@ -174,7 +174,7 @@
     "professor": "Marilia Aguiar Ribeiro do Nascimento",
     "periodo": 3,
     "horarios": [
-      "Terça 9h45-10h35"
+      "ter4"
     ]
   },
   {
@@ -182,10 +182,10 @@
     "professor": "Francisco Daladier Marques Junior",
     "periodo": 3,
     "horarios": [
-      "Terça 8h40-9h30",
-      "Terça 9h45-10h35",
-      "Quarta 7h00-7h50",
-      "Quarta 7h50-8h40"
+      "ter3",
+      "ter4",
+      "qua1",
+      "qua2"
     ]
   },
   {
@@ -193,10 +193,10 @@
     "professor": "Janderson Ferreira Dutra",
     "periodo": 3,
     "horarios": [
-      "Segunda 8h40-9h30",
-      "Segunda 9h45-10h35",
-      "Terça 8h40-9h30",
-      "Terça 9h45-10h35"
+      "seg3",
+      "seg4",
+      "ter3",
+      "ter4"
     ]
   },
   {
@@ -204,10 +204,10 @@
     "professor": "Fabio Abrantes Diniz",
     "periodo": 4,
     "horarios": [
-      "Terça 13h00-13h50",
-      "Terça 13h50-14h40",
-      "Quinta 13h00-13h50",
-      "Quinta 13h50-14h40"
+      "ter6",
+      "ter7",
+      "qui6",
+      "qui7"
     ]
   },
   {
@@ -215,10 +215,10 @@
     "professor": "Joao Paulo Freitas de Oliveira",
     "periodo": 4,
     "horarios": [
-      "Quarta 13h00-13h50",
-      "Quarta 13h50-14h40",
-      "Sexta 13h00-13h50",
-      "Sexta 13h50-14h40"
+      "qua6",
+      "qua7",
+      "sex6",
+      "sex7"
     ]
   },
   {
@@ -226,10 +226,10 @@
     "professor": "Janderson Ferreira Dutra",
     "periodo": 4,
     "horarios": [
-      "Terça 14h40-15h30",
-      "Terça 15h45-16h35",
-      "Quinta 14h40-15h30",
-      "Quinta 15h45-16h35"
+      "ter8",
+      "ter9",
+      "qui8",
+      "qui9"
     ]
   },
   {
@@ -237,10 +237,10 @@
     "professor": "Francisco Daladier Marques Junior",
     "periodo": 4,
     "horarios": [
-      "Terça 14h40-15h30",
-      "Terça 15h45-16h35",
-      "Quinta 14h40-15h30",
-      "Quinta 15h45-16h35"
+      "ter8",
+      "ter9",
+      "qui8",
+      "qui9"
     ]
   },
   {
@@ -248,10 +248,10 @@
     "professor": "Francisco Paulo de Freitas Neto",
     "periodo": 4,
     "horarios": [
-      "Terça 14h40-15h30",
-      "Terça 15h45-16h35",
-      "Quinta 14h40-15h30",
-      "Quinta 15h45-16h35"
+      "ter8",
+      "ter9",
+      "qui8",
+      "qui9"
     ]
   },
   {
@@ -259,10 +259,10 @@
     "professor": "Joao Igor Barros Rocha",
     "periodo": 4,
     "horarios": [
-      "Terça 13h00-13h50",
-      "Terça 13h50-14h40",
-      "Quinta 13h00-13h50",
-      "Quinta 13h50-14h40"
+      "ter6",
+      "ter7",
+      "qui6",
+      "qui7"
     ]
   },
   {
@@ -270,10 +270,10 @@
     "professor": "Diogo Dantas Moreira",
     "periodo": 5,
     "horarios": [
-      "Segunda 13h00-13h50",
-      "Segunda 13h50-14h40",
-      "Quinta 13h00-13h50",
-      "Quinta 13h50-14h40"
+      "seg6",
+      "seg7",
+      "qui6",
+      "qui7"
     ]
   },
   {
@@ -281,10 +281,10 @@
     "professor": "Diogo Dantas Moreira",
     "periodo": 5,
     "horarios": [
-      "Terça 07h00-07h50",
-      "Terça 07h50-08h40",
-      "Quinta 07h00-07h50",
-      "Quinta 07h50-08h40"
+      "ter1",
+      "ter2",
+      "qui1",
+      "qui2"
     ]
   },
   {
@@ -292,10 +292,10 @@
     "professor": "Francisco Daladier Marques Junior",
     "periodo": 5,
     "horarios": [
-      "Segunda 14h40-15h30",
-      "Segunda 15h45-16h35",
-      "Quarta 14h40-15h30",
-      "Quarta 15h45-16h35"
+      "seg8",
+      "seg9",
+      "qua8",
+      "qua9"
     ]
   },
   {
@@ -303,10 +303,10 @@
     "professor": "Joao Igor Barros Rocha",
     "periodo": 5,
     "horarios": [
-      "Segunda 13h00-13h50",
-      "Segunda 13h50-14h40",
-      "Sexta 13h00-13h50",
-      "Sexta 13h50-14h40"
+      "seg6",
+      "seg7",
+      "sex6",
+      "sex7"
     ]
   },
   {
@@ -314,10 +314,10 @@
     "professor": "Alec van de Franca Sousa",
     "periodo": 5,
     "horarios": [
-      "Segunda 13h00-13h50",
-      "Segunda 13h50-14h40",
-      "Sexta 13h00-13h50",
-      "Sexta 13h50-14h40"
+      "seg6",
+      "seg7",
+      "sex6",
+      "sex7"
     ]
   },
   {
@@ -325,10 +325,10 @@
     "professor": "Hudson Geovane de Medeiros",
     "periodo": 5,
     "horarios": [
-      "Segunda 07h00-07h50",
-      "Segunda 07h50-08h40",
-      "Quarta 07h00-07h50",
-      "Quarta 07h50-08h40"
+      "seg1",
+      "seg2",
+      "qua1",
+      "qua2"
     ]
   },
   {
@@ -336,10 +336,10 @@
     "professor": "Hudson Geovane de Medeiros",
     "periodo": 6,
     "horarios": [
-      "Terça 13h00-13h50",
-      "Terça 13h50-14h40",
-      "Quinta 13h00-13h50",
-      "Quinta 13h50-14h40"
+      "ter6",
+      "ter7",
+      "qui6",
+      "qui7"
     ]
   },
   {
@@ -347,10 +347,10 @@
     "professor": "Hudson Geovane de Medeiros",
     "periodo": 6,
     "horarios": [
-      "Terça 15h45-16h35",
-      "Terça 16h35-17h25",
-      "Sexta 15h45-16h35",
-      "Sexta 16h35-17h25"
+      "ter9",
+      "ter10",
+      "sex9",
+      "sex10"
     ]
   },
   {
@@ -358,8 +358,8 @@
     "professor": "Eva Maria Campos Pereira",
     "periodo": 6,
     "horarios": [
-      "Terça 09h45-10h35",
-      "Quarta 09h45-10h35"
+      "ter4",
+      "qua4"
     ]
   },
   {
@@ -367,8 +367,8 @@
     "professor": "Joao Paulo Freitas de Oliveira",
     "periodo": 6,
     "horarios": [
-      "Terça 10h35-11h25",
-      "Quarta 10h35-11h25"
+      "ter5",
+      "qua5"
     ]
   },
   {
@@ -376,10 +376,10 @@
     "professor": "Fabio Abrantes Diniz",
     "periodo": 6,
     "horarios": [
-      "Segunda 13h00-13h50",
-      "Segunda 13h50-14h40",
-      "Quarta 13h00-13h50",
-      "Quarta 13h50-14h40"
+      "seg6",
+      "seg7",
+      "qua6",
+      "qua7"
     ]
   },
   {
@@ -387,10 +387,10 @@
     "professor": "Ildegarde Elouise Alves",
     "periodo": 6,
     "horarios": [
-      "Segunda 16h35-17h25",
-      "Segunda 17h25-18h15",
-      "Quinta 16h35-17h25",
-      "Quinta 17h25-18h15"
+      "seg10",
+      "seg11",
+      "qui10",
+      "qui11"
     ]
   }
 ]
