@@ -108,6 +108,15 @@ td {
     color: #333;
 }
 
+/* Adicionando a separação visual entre os horários da manhã e da tarde */
+tbody tr:nth-child(5) {
+    border-bottom: 3px solid #0cb629; /* Borda verde para separação */
+}
+
+tbody tr:nth-child(6) {
+    border-top: 3px solid #0cb629; /* Borda verde para separação */
+}
+
 /* Rodapé */
 footer {
     margin-top: 40px;
