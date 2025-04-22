@@ -4,14 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calendario Academico - IFPB</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header><h1>Calendario acadêmico - IFPB</h1></header>
 
     <main>
-        <section class = "area-de-pesquisa">
-        <h2>Pesquise a matéria</h2>
-
         <table>
             <thead>
                 <tr>
@@ -107,14 +105,15 @@
             </tbody>
         </table>
 
-        <div class="botao-de-pesquisa" id="area-pesquisa">
-            <input type="texto" id="input-de-pesquisa" placeholder="Escreva o nome da materia">
-            <button onclick="filtra_resultados()">Filtrar</button>
+        <section id = "area-de-pesquisa">
+            <h2>Pesquise a matéria</h2>
+            <div class="botao-de-pesquisa" id="area-pesquisa">
+                <input type="texto" id="input-de-pesquisa" placeholder="Escreva o nome da materia">
+                <button onclick="periodos()"><img src="icons8-filter.gif" alt="filtrar"></button>
+            </div>
             <section id="materias"></section>
-        </div>
         </section>
     </main>
-    
     <footer></footer>
     <script src="script.js"></script>
 </body>
