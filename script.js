@@ -86,6 +86,48 @@ async function exibirMaterias(){
  
 }
 
+async function pesquisar(){
+  let area = document.getElementById("materias")
+  let conteudo = await coletarJson()
+  let input = document.getElementById("input-de-pesquisa")
+
+  if (input.value == ""){
+    let divs = area.querySelectorAll("div")
+    divs.forEach(div => div.remove())
+
+    exibirMaterias()
+    return
+  }
+
+  let divs = area.querySelectorAll("div")
+  divs.forEach(div => div.remove())
+
+  conteudo.forEach(e => {
+    const periodo = {
+      nome: e.materia
+    }
+
+    if (periodo.nome.toLowerCase().includes(input.value)){
+      let div = document.createElement("div")
+
+      let nome = document.createElement("span")
+      nome.innerText = e.materia
+
+      let check = document.createElement("input")
+      check.type = "checkbox"
+      check.addEventListener('change', function (){
+        verificar(this, materia)
+      })
+      
+      div.appendChild(nome)
+      div.appendChild(check)
+      area.appendChild(div)
+    }
+    
+  })
+
+}
+
 // marcarMateria()
 
 document.addEventListener("DOMContentLoaded",exibirMaterias)
