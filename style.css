@@ -1,118 +1,133 @@
-html{
-    width: 100%;
-    height: 100%;
-}
-
-body{
-    width: 100%;
-    height: 100%;
-}
-
-header{
-    background-color: #0A5517;
-}
-
-h1{
-    text-align: center;
-}
-
-main{
-    display: flex;
-}
-
-table {
-    width: 70%;
-    height: 60vh;
-    border-collapse: collapse;
-    margin: 20px auto;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    overflow: hidden;
-  }
-  
-  thead {
-    background-color: #4a90e2;
-    color: white;
-    text-align: center;
-  }
-  
-  thead th {
-    padding: 12px;
-    font-size: 1rem;
-    font-weight: bold;
-  }
-  
-  tbody td {
-    padding: 10px;
-    text-align: center;
-    background-color: #f9f9f9;
-    border-bottom: 1px solid #ddd;
-  }
-  
-  tbody tr:nth-child(even) td {
-    background-color: #f1f1f1;
-  }
-  
-  tbody tr:hover td {
-    background-color: #e1ecf7;
-  }
-  
-  td:first-child {
-    font-weight: bold;
-    background-color: #eef3f8;
-  }
-
-#area-de-pesquisa{
-    width: 20%;
-    height: 70vh;
-    overflow-y: auto;
-    margin: 0 auto;
-    padding: 1%;
-    text-align: center;
-    border: 3px solid black;
-    border-radius: 8px;
-}
-
-#area-pesquisa{
-    display:flex;
-    align-items: center;
-    justify-content: space-around;
-    flex-wrap: nowrap;
-}
-
-#input-de-pesquisa{
-    height: 1em;
-    padding: 5px;
-    border-radius: 8px;
-    border: 3px solid #19882c;
-    outline: none;
+/* Estilo geral para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Cor de fundo suave */
     margin: 0;
-    
-}
-
-button{
-    height: 25px;
-    width: 25px;
     padding: 0;
-    margin: auto;
-    border: none;
-}
-
-img{
-    height: 100%;
-    width: 100%;
-}
-
-#materias{
-    border: 2px solid rgba(0, 0, 0, 0.5);
-    border-radius: 12px 12px 0px 0px;
-    margin: 10px auto;
-}
-
-#materias > div{
     display: flex;
-    justify-content: space-between;
-    padding: 5px;
-    border-bottom: 1px solid black;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: flex-start; /* Alinha os itens ao topo */
+    min-height: 100vh; /* Garante que o corpo ocupe toda a altura da tela */
+    flex-direction: column;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #0cb629; /* Verde mais claro para o IFPB */
+    width: 100%;
+    padding: 15px 0;
+    color: #000; /* Título preto */
+    text-align: center;
+    font-size: 1.8em;
+}
+
+/* Ajuste no main para flexbox com wrap */
+main {
+    justify-content: space-around;
+    display: flex;
+    gap: 20px; /* Espaço entre os elementos */
+    width: 100%;
+    padding: 20px;
+}
+
+/* Estilo para a tabela */
+#tabela-principal {
+    flex: 1 1 45%; /* A tabela ocupará até 60% da largura disponível */
+    max-width: 1200px; /* Largura máxima */
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Estilo da área de pesquisa */
+#area-de-pesquisa {
+    flex: 1 1 45%; /* A área de pesquisa ocupará até 35% da largura */
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 400px; /* Largura máxima da área de pesquisa */
+}
+
+/* Título da área de pesquisa */
+.area-de-pesquisa h2 {
+    font-size: 1.5em;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilo para o campo de pesquisa e o botão */
+.botao-de-pesquisa {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.botao-de-pesquisa input {
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.botao-de-pesquisa button {
+    padding: 10px 15px;
+    background-color: #0cb629; /* Verde mais claro para o IFPB */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.botao-de-pesquisa button:hover {
+    background-color: #0cb629; /* Tom mais escuro para o efeito hover */
+}
+
+/* Estilo da tabela */
+table {
+    width: 100%; /* Tabela ocupa toda a largura disponível */
+    margin: 30px auto; /* Centraliza a tabela horizontalmente */
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+th, td {
+    padding: 12px 20px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #0cb629; /* Verde mais claro para o IFPB */
+    color: white;
+    font-size: 1.2em;
+}
+
+td {
+    font-size: 1em;
+    color: #333;
+}
+
+/* Adicionando a separação visual entre os horários da manhã e da tarde */
+tbody tr:nth-child(5) {
+    border-bottom: 3px solid #0cb629; /* Borda verde para separação */
+}
+
+tbody tr:nth-child(6) {
+    border-top: 3px solid #0cb629; /* Borda verde para separação */
+}
+
+/* Rodapé */
+footer {
+    margin-top: 40px;
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+    width: 100%;
 }
