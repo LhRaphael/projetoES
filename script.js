@@ -52,8 +52,7 @@ function verificar(check, materia){
   marcarMateria()
 }
 
-
-async function marcarMateria(){  
+function marcarMateria(){  
   MATERIASMARCADAS.forEach(materia =>{
     let idReferencia = []
     for(let i = 0; i < materia.horarios.length; i++){
@@ -62,14 +61,12 @@ async function marcarMateria(){
 
     idReferencia.forEach(item =>{
       let horario = document.getElementById(item)
-      if(materia.ativo == true){
+      if(materia.ativo == true && horario.textContent == ""){
         horario.textContent = materia.nome
-      }
-      else if(horario && materia.ativo == false){
-        horario.textContent = ""
       }
     })
   })
+
   console.log(MATERIASMARCADAS)
 
 }
