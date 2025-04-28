@@ -1,5 +1,15 @@
 let MATERIASMARCADAS = []
 
+async function startMateria(){
+  let materias = await coletarJson()
+
+  for(let i = 0; i < materias.length; i++){
+    let element = {nome: materias[i].materia, ativo: false, horarios: materias[i].horarios}
+    MATERIASMARCADAS.push(element)
+  }
+
+}
+
 function coletarJson(){
   return fetch('./dados.json')
   .then(response => {
@@ -17,12 +27,19 @@ function coletarJson(){
 
 
 function removerMateria(materia){
-  if(MATERIASMARCADAS.length !== 0)
-    MATERIASMARCADAS.splice(materia, 1, 0)
+  MATERIASMARCADAS.forEach(element =>{
+    if(element.nome == materia.nome){
+      element.ativo = false
+    }
+  })
 }
 
 function adicionarMateria(materia){
-  MATERIASMARCADAS.push(materia)
+  MATERIASMARCADAS.forEach(element =>{
+    if(element.nome == materia.nome){
+      element.ativo = true
+    }
+  })
 }
 
 function verificar(check, materia){
@@ -45,15 +62,15 @@ async function marcarMateria(){
 
     idReferencia.forEach(item =>{
       let horario = document.getElementById(item)
-      if(horario){
+      if(materia.ativo == true){
         horario.textContent = materia.nome
       }
-      else{
+      else if(horario && materia.ativo == false){
         horario.textContent = ""
       }
     })
   })
-  
+  console.log(MATERIASMARCADAS)
 
 }
 
@@ -65,7 +82,6 @@ async function exibirMaterias(){
   conteudo.forEach(element => {
     const materia = {
       nome: element.materia,
-      horarios: element.horarios
     }
     let div = document.createElement("div")
     
@@ -129,5 +145,5 @@ async function pesquisar(){
 }
 
 // marcarMateria()
-
+startMateria()
 document.addEventListener("DOMContentLoaded",exibirMaterias)
