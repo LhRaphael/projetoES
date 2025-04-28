@@ -1,361 +1,398 @@
 [
-    {
-      "materia": "R. H. T.",
-      "professor": "Eliabe Afonso de Sousa",
-      "horarios": [
-        "Segunda 07h00-07h50",
-        "Segunda 07h50-08h40",
-        "Segunda 08h40-09h30"
-      ]
-    },
-    {
-      "materia": "Portugues Ins.",
-      "professor": "Francisco Igor Arraes Alves Rocha",
-      "horarios": [
-        "Segunda 09h45-10h35",
-        "Segunda 10h35-11h25"
-      ]
-    },
-    {
-      "materia": "Algoritimos",
-      "professor": "Fabio Gomes de Andrade",
-      "horarios": [
-        "Terça 07h00-07h50",
-        "Terça 07h50-08h40",
-        "Quinta 07h00-07h50",
-        "Quinta 07h50-08h40",
-        "Quinta 08h40-09h30",
-        "Sexta 10h35-11h25"
-      ]
-    },
-    {
-      "materia": "Fund. Comput.",
-      "professor": "Joao Paulo Freitas de Oliveira",
-      "horarios": [
-        "Terça 08h40-09h30",
-        "Quarta 08h40-09h30",
-        "Quarta 09h45-10h35",
-        "Quarta 10h35-11h25"
-      ]
-    },
-    {
-      "materia": "Ingles Inst.",
-      "professor": "Daniela Miguel de Souza Morais",
-      "horarios": [
-        "Terça 09h45-10h35",
-        "Terça 10h35-11h25"
-      ]
-    },
-    {
-      "materia": "Mat. Apli. Comp.",
-      "professor": "Leilyanne Silva de Morais",
-      "horarios": [
-        "Quarta 07h00-07h50",
-        "Quarta 07h50-08h40",
-        "Quinta 09h45-10h35",
-        "Quinta 10h35-11h25"
-      ]
-    },
-    {
-      "materia": "Lin. Marcação",
-      "professor": "Diogo Dantas Moreira",
-      "horarios": [
-        "Sexta 07h00-07h50",
-        "Sexta 07h50-08h40",
-        "Sexta 08h40-09h30",
-        "Sexta 09h45-10h35"
-      ]
-    },
-    {
-        "materia": "L. S. Web",
-        "professor": "Fabio Abrantes Diniz",
-        "horarios": [
-          "Quinta 13h00-13h50",
-          "Quinta 13h50-14h40",
-          "Sexta 13h00-13h50",
-          "Sexta 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Inclu. Tecnol.",
-        "professor": "Francisco Daladier Marques Junior",
-        "horarios": [
-          "Quarta 14h40-15h30",
-          "Quarta 15h45-16h35",
-          "Quarta 16h35-17h25"
-        ]
-      },
-      {
-        "materia": "Est. Dados",
-        "professor": "Cicero Aristofanio Garcia de Araujo",
-        "horarios": [
-          "Segunda 14h40-15h30",
-          "Segunda 15h45-16h35",
-          "Segunda 16h35-17h25",
-          "Terça 14h40-15h30",
-          "Terça 15h45-16h35",
-          "Terça 16h35-17h25"
-        ]
-      },
-      {
-        "materia": "Sis. Oper.",
-        "professor": "Joao Igor Barros Rocha",
-        "horarios": [
-          "Quinta 14h40-15h30",
-          "Sexta 14h40-15h30",
-          "Sexta 15h45-16h35",
-          "Sexta 16h35-17h25"
-        ]
-      },
-      {
-        "materia": "Probabilidade",
-        "professor": "Vinicius Martins Teodosio Rocha",
-        "horarios": [
-          "Terça 13h00-13h50",
-          "Terça 13h50-14h40",
-          "Quarta 13h00-13h50",
-          "Quarta 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Ger. Mudanças",
-        "professor": "Francisco Paulo de Freitas Neto",
-        "horarios": [
-          "Segunda 13h00-13h50",
-          "Segunda 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Metodologia",
-        "professor": "Eva Maria Campos Pereira",
-        "horarios": [
-          "Quinta 14h40-15h30",
-          "Quinta 15h45-16h35"
-        ]
-      },
-      {
-        "materia": "P. O. O.",
-        "professor": "Francisco Paulo de Freitas Neto",
-        "horarios": [
-          "Segunda 7h00-7h50",
-          "Segunda 7h50-8h40",
-          "Terça 7h00-7h50",
-          "Terça 7h50-8h40"
-        ]
-      },
-      {
-        "materia": "Banco Dados I",
-        "professor": "Fabio Gomes de Andrade",
-        "horarios": [
-          "Segunda 7h00-7h50",
-          "Segunda 7h50-8h40",
-          "Terça 8h40-9h30",
-          "Terça 9h45-10h35"
-        ]
-      },
-      {
-        "materia": "Direitos Human.",
-        "professor": "Marilia Aguiar Ribeiro do Nascimento",
-        "horarios": [
-          "Terça 9h45-10h35"
-        ]
-      },
-      {
-        "materia": "Redes",
-        "professor": "Francisco Daladier Marques Junior",
-        "horarios": [
-          "Terça 8h40-9h30",
-          "Terça 9h45-10h35",
-          "Quarta 7h00-7h50",
-          "Quarta 7h50-8h40"
-        ]
-      },
-      {
-        "materia": "Eng. Softwere",
-        "professor": "Janderson Ferreira Dutra",
-        "horarios": [
-          "Segunda 8h40-9h30",
-          "Segunda 9h45-10h35",
-          "Terça 8h40-9h30",
-          "Terça 9h45-10h35"
-        ]
-      },
-      {
-        "materia": "Prog. Web I",
-        "professor": "Fabio Abrantes Diniz",
-        "horarios": [
-          "Terça 13h00-13h50",
-          "Terça 13h50-14h40",
-          "Quinta 13h00-13h50",
-          "Quinta 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Geren. Projetos",
-        "professor": "Joao Paulo Freitas de Oliveira",
-        "horarios": [
-          "Quarta 13h00-13h50",
-          "Quarta 13h50-14h40",
-          "Sexta 13h00-13h50",
-          "Sexta 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Lab. Eng. Soft.",
-        "professor": "Janderson Ferreira Dutra",
-        "horarios": [
-          "Terça 14h40-15h30",
-          "Terça 15h45-16h35",
-          "Quinta 14h40-15h30",
-          "Quinta 15h45-16h35"
-        ]
-      },
-      {
-        "materia": "Lab. Redes",
-        "professor": "Francisco Daladier Marques Junior",
-        "horarios": [
-          "Terça 14h40-15h30",
-          "Terça 15h45-16h35",
-          "Quinta 14h40-15h30",
-          "Quinta 15h45-16h35"
-        ]
-      },
-      {
-        "materia": "Banco Dados II",
-        "professor": "Francisco Paulo de Freitas Neto",
-        "horarios": [
-          "Terça 14h40-15h30",
-          "Terça 15h45-16h35",
-          "Quinta 14h40-15h30",
-          "Quinta 15h45-16h35"
-        ]
-      },
-      {
-        "materia": "Teste Softwere",
-        "professor": "Joao Igor Barros Rocha",
-        "horarios": [
-          "Terça 13h00-13h50",
-          "Terça 13h50-14h40",
-          "Quinta 13h00-13h50",
-          "Quinta 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Prog. Web II",
-        "professor": "Diogo Dantas Moreira",
-        "horarios": [
-          "Segunda 13h00-13h50",
-          "Segunda 13h50-14h40",
-          "Quinta 13h00-13h50",
-          "Quinta 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Arq. Proj. Soft.",
-        "professor": "Diogo Dantas Moreira",
-        "horarios": [
-          "Terça 07h00-07h50",
-          "Terça 07h50-08h40",
-          "Quinta 07h00-07h50",
-          "Quinta 07h50-08h40"
-        ]
-      },
-      {
-        "materia": "Segurança",
-        "professor": "Francisco Daladier Marques Junior",
-        "horarios": [
-          "Segunda 14h40-15h30",
-          "Segunda 15h45-16h35",
-          "Quarta 14h40-15h30",
-          "Quarta 15h45-16h35"
-        ]
-      },
-      {
-        "materia": "Gestão T. I. C.",
-        "professor": "Joao Igor Barros Rocha",
-        "horarios": [
-          "Segunda 13h00-13h50",
-          "Segunda 13h50-14h40",
-          "Sexta 13h00-13h50",
-          "Sexta 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Empreended.",
-        "professor": "Alec van de Franca Sousa",
-        "horarios": [
-          "Segunda 13h00-13h50",
-          "Segunda 13h50-14h40",
-          "Sexta 13h00-13h50",
-          "Sexta 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Pra. Socie. I",
-        "professor": "Hudson Geovane de Medeiros",
-        "horarios": [
-          "Segunda 07h00-07h50",
-          "Segunda 07h50-08h40",
-          "Quarta 07h00-07h50",
-          "Quarta 07h50-08h40"
-        ]
-      },
-      {
-        "materia": "Pra. Socie. II",
-        "professor": "Hudson Geovane de Medeiros",
-        "horarios": [
-          "Terça 13h00-13h50",
-          "Terça 13h50-14h40",
-          "Quinta 13h00-13h50",
-          "Quinta 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Sist. Distrib.",
-        "professor": "Hudson Geovane de Medeiros",
-        "horarios": [
-          "Terça 15h45-16h35",
-          "Terça 16h35-17h25",
-          "Sexta 15h45-16h35",
-          "Sexta 16h35-17h25"
-        ]
-      },
-      {
-        "materia": "D. A. C.",
-        "professor": "Eva Maria Campos Pereira",
-        "horarios": [
-          "Terça 09h45-10h35",
-          "Quarta 09h45-10h35"
-        ]
-      },
-      {
-        "materia": "I. H. C.",
-        "professor": "Joao Paulo Freitas de Oliveira",
-        "horarios": [
-          "Terça 10h35-11h25",
-          "Quarta 10h35-11h25"
-        ]
-      },
-      {
-        "materia": "Prog. Móveis",
-        "professor": "Fabio Abrantes Diniz",
-        "horarios": [
-          "Segunda 13h00-13h50",
-          "Segunda 13h50-14h40",
-          "Quarta 13h00-13h50",
-          "Quarta 13h50-14h40"
-        ]
-      },
-      {
-        "materia": "Libras (Optativa)",
-        "professor": "Ildegarde Elouise Alves",
-        "horarios": [
-          "Segunda 16h35-17h25",
-          "Segunda 17h25-18h15",
-          "Quinta 16h35-17h25",
-          "Quinta 17h25-18h15"
-        ]
-      }
-                              
-  ]
-  
+  {
+    "materia": "R. H. T.",
+    "professor": "Eliabe Afonso de Sousa",
+    "periodo": 1,
+    "horarios": [
+      "seg1",
+      "seg2",
+      "seg3"
+    ]
+  },
+  {
+    "materia": "Portugues Ins.",
+    "professor": "Francisco Igor Arraes Alves Rocha",
+    "periodo": 1,
+    "horarios": [
+      "seg4",
+      "seg5"
+    ]
+  },
+  {
+    "materia": "Algoritimos",
+    "professor": "Fabio Gomes de Andrade",
+    "periodo": 1,
+    "horarios": [
+      "ter1",
+      "ter2",
+      "qui1",
+      "qui2",
+      "qui3",
+      "sex5"
+    ]
+  },
+  {
+    "materia": "Fund. Comput.",
+    "professor": "Joao Paulo Freitas de Oliveira",
+    "periodo": 1,
+    "horarios": [
+      "ter3",
+      "qua3",
+      "qua4",
+      "qua5"
+    ]
+  },
+  {
+    "materia": "Ingles Inst.",
+    "professor": "Daniela Miguel de Souza Morais",
+    "periodo": 1,
+    "horarios": [
+      "ter4",
+      "ter5"
+    ]
+  },
+  {
+    "materia": "Mat. Apli. Comp.",
+    "professor": "Leilyanne Silva de Morais",
+    "periodo": 1,
+    "horarios": [
+      "qua1",
+      "qua2",
+      "qui4",
+      "qui5"
+    ]
+  },
+  {
+    "materia": "Lin. Marcação",
+    "professor": "Diogo Dantas Moreira",
+    "periodo": 1,
+    "horarios": [
+      "sex1",
+      "sex2",
+      "sex3",
+      "sex4"
+    ]
+  },
+  {
+    "materia": "L. S. Web",
+    "professor": "Fabio Abrantes Diniz",
+    "periodo": 2,
+    "horarios": [
+      "qui6",
+      "qui7",
+      "sex6",
+      "sex7"
+    ]
+  },
+  {
+    "materia": "Inclu. Tecnol.",
+    "professor": "Francisco Daladier Marques Junior",
+    "periodo": 2,
+    "horarios": [
+      "qua8",
+      "qua9",
+      "qua10"
+    ]
+  },
+  {
+    "materia": "Est. Dados",
+    "professor": "Cicero Aristofanio Garcia de Araujo",
+    "periodo": 2,
+    "horarios": [
+      "seg8",
+      "seg9",
+      "seg10",
+      "ter8",
+      "ter9",
+      "ter10"
+    ]
+  },
+  {
+    "materia": "Sis. Oper.",
+    "professor": "Joao Igor Barros Rocha",
+    "periodo": 2,
+    "horarios": [
+      "qui8",
+      "sex8",
+      "sex9",
+      "sex10"
+    ]
+  },
+  {
+    "materia": "Probabilidade",
+    "professor": "Vinicius Martins Teodosio Rocha",
+    "periodo": 2,
+    "horarios": [
+      "ter6",
+      "ter7",
+      "qua6",
+      "qua7"
+    ]
+  },
+  {
+    "materia": "Ger. Mudanças",
+    "professor": "Francisco Paulo de Freitas Neto",
+    "periodo": 2,
+    "horarios": [
+      "seg6",
+      "seg7"
+    ]
+  },
+  {
+    "materia": "Metodologia",
+    "professor": "Eva Maria Campos Pereira",
+    "periodo": 2,
+    "horarios": [
+      "qui8",
+      "qui9"
+    ]
+  },
+  {
+    "materia": "P. O. O.",
+    "professor": "Francisco Paulo de Freitas Neto",
+    "periodo": 3,
+    "horarios": [
+      "seg1",
+      "seg2",
+      "seg3",
+      "ter1",
+      "ter2",
+      "ter3"
+    ]
+  },
+  {
+    "materia": "Banco Dados I",
+    "professor": "Fabio Gomes de Andrade",
+    "periodo": 3,
+    "horarios": [
+      "seg1",
+      "seg2",
+      "ter3",
+      "ter4"
+    ]
+  },
+  {
+    "materia": "Direitos Human.",
+    "professor": "Marilia Aguiar Ribeiro do Nascimento",
+    "periodo": 3,
+    "horarios": [
+      "ter4"
+    ]
+  },
+  {
+    "materia": "Redes",
+    "professor": "Francisco Daladier Marques Junior",
+    "periodo": 3,
+    "horarios": [
+      "ter3",
+      "ter4",
+      "qua1",
+      "qua2"
+    ]
+  },
+  {
+    "materia": "Eng. Softwere",
+    "professor": "Janderson Ferreira Dutra",
+    "periodo": 3,
+    "horarios": [
+      "seg3",
+      "seg4",
+      "ter3",
+      "ter4"
+    ]
+  },
+  {
+    "materia": "Prog. Web I",
+    "professor": "Fabio Abrantes Diniz",
+    "periodo": 4,
+    "horarios": [
+      "ter6",
+      "ter7",
+      "qui6",
+      "qui7"
+    ]
+  },
+  {
+    "materia": "Geren. Projetos",
+    "professor": "Joao Paulo Freitas de Oliveira",
+    "periodo": 4,
+    "horarios": [
+      "qua6",
+      "qua7",
+      "sex6",
+      "sex7"
+    ]
+  },
+  {
+    "materia": "Lab. Eng. Soft.",
+    "professor": "Janderson Ferreira Dutra",
+    "periodo": 4,
+    "horarios": [
+      "ter8",
+      "ter9",
+      "qui8",
+      "qui9"
+    ]
+  },
+  {
+    "materia": "Lab. Redes",
+    "professor": "Francisco Daladier Marques Junior",
+    "periodo": 4,
+    "horarios": [
+      "ter8",
+      "ter9",
+      "qui8",
+      "qui9"
+    ]
+  },
+  {
+    "materia": "Banco Dados II",
+    "professor": "Francisco Paulo de Freitas Neto",
+    "periodo": 4,
+    "horarios": [
+      "ter8",
+      "ter9",
+      "qui8",
+      "qui9"
+    ]
+  },
+  {
+    "materia": "Teste Softwere",
+    "professor": "Joao Igor Barros Rocha",
+    "periodo": 4,
+    "horarios": [
+      "ter6",
+      "ter7",
+      "qui6",
+      "qui7"
+    ]
+  },
+  {
+    "materia": "Prog. Web II",
+    "professor": "Diogo Dantas Moreira",
+    "periodo": 5,
+    "horarios": [
+      "seg6",
+      "seg7",
+      "qui6",
+      "qui7"
+    ]
+  },
+  {
+    "materia": "Arq. Proj. Soft.",
+    "professor": "Diogo Dantas Moreira",
+    "periodo": 5,
+    "horarios": [
+      "ter1",
+      "ter2",
+      "qui1",
+      "qui2"
+    ]
+  },
+  {
+    "materia": "Segurança",
+    "professor": "Francisco Daladier Marques Junior",
+    "periodo": 5,
+    "horarios": [
+      "seg8",
+      "seg9",
+      "qua8",
+      "qua9"
+    ]
+  },
+  {
+    "materia": "Gestão T. I. C.",
+    "professor": "Joao Igor Barros Rocha",
+    "periodo": 5,
+    "horarios": [
+      "seg6",
+      "seg7",
+      "sex6",
+      "sex7"
+    ]
+  },
+  {
+    "materia": "Empreended.",
+    "professor": "Alec van de Franca Sousa",
+    "periodo": 5,
+    "horarios": [
+      "seg6",
+      "seg7",
+      "sex6",
+      "sex7"
+    ]
+  },
+  {
+    "materia": "Pra. Socie. I",
+    "professor": "Hudson Geovane de Medeiros",
+    "periodo": 5,
+    "horarios": [
+      "seg1",
+      "seg2",
+      "qua1",
+      "qua2"
+    ]
+  },
+  {
+    "materia": "Pra. Socie. II",
+    "professor": "Hudson Geovane de Medeiros",
+    "periodo": 6,
+    "horarios": [
+      "ter6",
+      "ter7",
+      "qui6",
+      "qui7"
+    ]
+  },
+  {
+    "materia": "Sist. Distrib.",
+    "professor": "Hudson Geovane de Medeiros",
+    "periodo": 6,
+    "horarios": [
+      "ter9",
+      "ter10",
+      "sex9",
+      "sex10"
+    ]
+  },
+  {
+    "materia": "D. A. C.",
+    "professor": "Eva Maria Campos Pereira",
+    "periodo": 6,
+    "horarios": [
+      "ter4",
+      "qua4"
+    ]
+  },
+  {
+    "materia": "I. H. C.",
+    "professor": "Joao Paulo Freitas de Oliveira",
+    "periodo": 6,
+    "horarios": [
+      "ter5",
+      "qua5"
+    ]
+  },
+  {
+    "materia": "Prog. Móveis",
+    "professor": "Fabio Abrantes Diniz",
+    "periodo": 6,
+    "horarios": [
+      "seg6",
+      "seg7",
+      "qua6",
+      "qua7"
+    ]
+  },
+  {
+    "materia": "Libras (Optativa)",
+    "professor": "Ildegarde Elouise Alves",
+    "periodo": 6,
+    "horarios": [
+      "seg10",
+      "seg11",
+      "qui10",
+      "qui11"
+    ]
+  }
+]

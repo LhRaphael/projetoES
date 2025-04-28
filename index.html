@@ -4,21 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calendario Academico - IFPB</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header><h1>Calendario acadêmico - IFPB</h1></header>
 
     <main>
-        <section class = "area-de-pesquisa">
-        <h2>Pesquise a matéria</h2>
-
-        <div class="botao-de-pesquisa">
-            <input type="texto" id="input-de-pesquisa" placeholder="Escreva o nome da materia">
-            <button onclick="filtra_resultados()">Filtrar</button>
-        </div>
-        </section>
-
-        <table>
+        <table id="tabela-principal">
             <thead>
                 <tr>
                     <th>Horarios</th>
@@ -32,88 +24,97 @@
             <tbody>
                 <tr>
                     <td>07:00 - 07:50</td>
-                    <td id="s1"></td>
-                    <td id="t1"></td>
-                    <td id="q1"></td>
-                    <td id="qq1"></td>
-                    <td id="ss1"></td>
+                    <td id="seg1"></td>
+                    <td id="ter1"></td>
+                    <td id="qua1"></td>
+                    <td id="qui1"></td>
+                    <td id="sex1"></td>
                 </tr>
                 <tr>
                     <td>07:50 - 08:40</td>
-                    <td id="s2"></td>
-                    <td id="t2"></td>
-                    <td id="q2"></td>
-                    <td id="qq2"></td>
-                    <td id="ss2"></td>
+                    <td id="seg2"></td>
+                    <td id="ter2"></td>
+                    <td id="qua2"></td>
+                    <td id="qui2"></td>
+                    <td id="sex2"></td>
                 </tr>
                 <tr>
                     <td>08:40 - 09:30</td>
-                    <td id="s3"></td>
-                    <td id="t3"></td>
-                    <td id="q3"></td>
-                    <td id="qq3"></td>
-                    <td id="ss3"></td>
+                    <td id="seg3"></td>
+                    <td id="ter3"></td>
+                    <td id="qua3"></td>
+                    <td id="qui3"></td>
+                    <td id="sex3"></td>
                 </tr>
                 <tr>
                     <td>09:45 - 10:35</td>
-                    <td id="s4"></td>
-                    <td id="t4"></td>
-                    <td id="q4"></td>
-                    <td id="qq4"></td>
-                    <td id="ss4"></td>
+                    <td id="seg4"></td>
+                    <td id="ter4"></td>
+                    <td id="qua4"></td>
+                    <td id="qui4"></td>
+                    <td id="sex4"></td>
                 </tr>
                 <tr>
                     <td>10:35 - 11:25</td>
-                    <td id="s5"></td>
-                    <td id="t5"></td>
-                    <td id="q5"></td>
-                    <td id="qq5"></td>
-                    <td id="ss5"></td>
+                    <td id="seg5"></td>
+                    <td id="ter5"></td>
+                    <td id="qua5"></td>
+                    <td id="qui5"></td>
+                    <td id="sex5"></td>
                 </tr>
                 <tr>
                     <td>13:00 - 13:50</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td id="seg6"></td>
+                    <td id="ter6"></td>
+                    <td id="qua6"></td>
+                    <td id="qui6"></td>
+                    <td id="sex6"></td>
                 </tr>
                 <tr>
                     <td>13:50 - 14:40</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td id="seg7"></td>
+                    <td id="ter7"></td>
+                    <td id="qua7"></td>
+                    <td id="qui7"></td>
+                    <td id="sex7"></td>
                 </tr>
                 <tr>
                     <td>14:40 - 15:30</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td id="seg8"></td>
+                    <td id="ter8"></td>
+                    <td id="qua8"></td>
+                    <td id="qui8"></td>
+                    <td id="sex8"></td>
                 </tr>
                 <tr>
                     <td>15:45 - 16:35</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td id="seg9"></td>
+                    <td id="ter9"></td>
+                    <td id="qua9"></td>
+                    <td id="qui9"></td>
+                    <td id="sex9"></td>
                 </tr>
                 <tr>
                     <td>16:35 - 17:25</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td id="seg10"></td>
+                    <td id="ter10"></td>
+                    <td id="qua10"></td>
+                    <td id="qui10"></td>
+                    <td id="sex10"></td>
                 </tr>
             </tbody>
         </table>
+
+        <section id = "area-de-pesquisa">
+            <h2>Pesquise a matéria</h2>
+            <div class="botao-de-pesquisa" id="area-pesquisa">
+                <input type="texto" id="input-de-pesquisa" placeholder="Escreva o nome da materia">
+                <button onclick="pesquisar()"><img src="icons8-filter.gif" alt="filtrar"></button>
+            </div>
+            <section id="materias"></section>
+        </section>
     </main>
-    
     <footer></footer>
+    <script src="script.js"></script>
 </body>
 </html>
