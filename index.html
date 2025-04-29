@@ -5,11 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calendario Academico - IFPB</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.20/jspdf.plugin.autotable.min.js"></script>    
+    <script src="script.js" defer></script>
 </head>
 <body>
     <header><h1>Calendario acadêmico - IFPB</h1></header>
 
     <main>
+        
         <table id="tabela-principal">
             <thead>
                 <tr>
@@ -109,12 +113,13 @@
             <h2>Pesquise a matéria</h2>
             <div class="botao-de-pesquisa" id="area-pesquisa">
                 <input type="texto" id="input-de-pesquisa" placeholder="Escreva o nome da materia">
-                <button onclick="pesquisar()"><img src="icons8-filter.gif" alt="filtrar"></button>
+                <button id="filtro"><img src="icons8-filter.gif" alt="filtrar"></button>
             </div>
             <section id="materias"></section>
+            <button id="exportar" onclick="exportarTabela()">exportar</button>
         </section>
+        <section id="periodos"></section>
     </main>
     <footer></footer>
-    <script src="script.js"></script>
 </body>
 </html>

@@ -7,7 +7,8 @@
       "seg1",
       "seg2",
       "seg3"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/1_-_rht.pdf"
   },
   {
     "materia": "Portugues Ins.",
@@ -16,7 +17,8 @@
     "horarios": [
       "seg4",
       "seg5"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/1_-_portugues_91ylUKd.pdf"
   },
   {
     "materia": "Algoritimos",
@@ -29,7 +31,8 @@
       "qui2",
       "qui3",
       "sex5"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/1_-_algoritmos_QkoZIQL.pdf"
   },
   {
     "materia": "Fund. Comput.",
@@ -40,7 +43,8 @@
       "qua3",
       "qua4",
       "qua5"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/1_-_fundamentos_3EYX0vv.pdf"
   },
   {
     "materia": "Ingles Inst.",
@@ -49,7 +53,8 @@
     "horarios": [
       "ter4",
       "ter5"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/1_-_ingles_spyKHhj.pdf"
   },
   {
     "materia": "Mat. Apli. Comp.",
@@ -60,7 +65,8 @@
       "qua2",
       "qui4",
       "qui5"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/1_-_matematica.pdf"
   },
   {
     "materia": "Lin. Marcação",
@@ -71,7 +77,8 @@
       "sex2",
       "sex3",
       "sex4"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/1_-_ling_marcacao.pdf"
   },
   {
     "materia": "L. S. Web",
@@ -82,7 +89,8 @@
       "qui7",
       "sex6",
       "sex7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/2_-_lsweb.pdf"
   },
   {
     "materia": "Inclu. Tecnol.",
@@ -92,7 +100,8 @@
       "qua8",
       "qua9",
       "qua10"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/2_-_inclusao.pdf"
   },
   {
     "materia": "Est. Dados",
@@ -105,7 +114,8 @@
       "ter8",
       "ter9",
       "ter10"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/2_-_estrutura_63IgaRQ.pdf"
   },
   {
     "materia": "Sis. Oper.",
@@ -116,7 +126,8 @@
       "sex8",
       "sex9",
       "sex10"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/2_-_so.pdf"
   },
   {
     "materia": "Probabilidade",
@@ -127,7 +138,8 @@
       "ter7",
       "qua6",
       "qua7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/2_-_probabilidade_ykFqpme.pdf"
   },
   {
     "materia": "Ger. Mudanças",
@@ -136,7 +148,8 @@
     "horarios": [
       "seg6",
       "seg7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/2_-_gcm_lS1fGTw.pdf"
   },
   {
     "materia": "Metodologia",
@@ -145,7 +158,8 @@
     "horarios": [
       "qui8",
       "qui9"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/2_-_redes_Jt81TSq.pdf"
   },
   {
     "materia": "P. O. O.",
@@ -158,7 +172,8 @@
       "ter1",
       "ter2",
       "ter3"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/3_-_poo_ycKwjzG.pdf"
   },
   {
     "materia": "Banco Dados I",
@@ -169,7 +184,8 @@
       "seg2",
       "ter3",
       "ter4"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/3_-_bd1_Xd0ZsyY.pdf"
   },
   {
     "materia": "Direitos Human.",
@@ -177,18 +193,22 @@
     "periodo": 3,
     "horarios": [
       "ter4"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/3_-_rel_etnicas.pdf"
   },
   {
     "materia": "Redes",
     "professor": "Francisco Daladier Marques Junior",
     "periodo": 3,
     "horarios": [
-      "ter3",
-      "ter4",
-      "qua1",
-      "qua2"
-    ]
+      "qui1",
+      "qui2",
+      "qui3",
+      "sex3",
+      "sex4",
+      "sex5"
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/3_-_redes.pdf"
   },
   {
     "materia": "Eng. Softwere",
@@ -199,7 +219,8 @@
       "seg4",
       "ter3",
       "ter4"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/3_-_fundamentos.pdf"
   },
   {
     "materia": "Prog. Web I",
@@ -210,7 +231,8 @@
       "ter7",
       "qui6",
       "qui7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/4_-_pw1_3LsRS0G.pdf"
   },
   {
     "materia": "Geren. Projetos",
@@ -221,7 +243,8 @@
       "qua7",
       "sex6",
       "sex7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/4_-_Gproj_T32rnD8.pdf"
   },
   {
     "materia": "Lab. Eng. Soft.",
@@ -232,7 +255,8 @@
       "ter9",
       "qui8",
       "qui9"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/4_-_lab_eng_2cQz5ka.pdf"
   },
   {
     "materia": "Lab. Redes",
@@ -243,7 +267,8 @@
       "ter9",
       "qui8",
       "qui9"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/4_-_lab_eng.pdf"
   },
   {
     "materia": "Banco Dados II",
@@ -254,7 +279,8 @@
       "ter9",
       "qui8",
       "qui9"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/4_-_banco_2.pdf"
   },
   {
     "materia": "Teste Softwere",
@@ -265,7 +291,8 @@
       "ter7",
       "qui6",
       "qui7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/4_-_testes.pdf"
   },
   {
     "materia": "Prog. Web II",
@@ -276,7 +303,8 @@
       "seg7",
       "qui6",
       "qui7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/5_-_pw2.pdf"
   },
   {
     "materia": "Arq. Proj. Soft.",
@@ -287,7 +315,8 @@
       "ter2",
       "qui1",
       "qui2"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/5_-_padroes_y4s89lY.pdf"
   },
   {
     "materia": "Segurança",
@@ -298,7 +327,8 @@
       "seg9",
       "qua8",
       "qua9"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/5_-_seguranca_we47bLp.pdf"
   },
   {
     "materia": "Gestão T. I. C.",
@@ -309,7 +339,8 @@
       "seg7",
       "sex6",
       "sex7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/5_-_GTIC.pdf"
   },
   {
     "materia": "Empreended.",
@@ -320,7 +351,8 @@
       "seg7",
       "sex6",
       "sex7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/5_-_empreendedorismo.pdf"
   },
   {
     "materia": "Pra. Socie. I",
@@ -331,7 +363,8 @@
       "seg2",
       "qua1",
       "qua2"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/5_-_praticas1.pdf"
   },
   {
     "materia": "Pra. Socie. II",
@@ -342,7 +375,8 @@
       "ter7",
       "qui6",
       "qui7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/6_-_praticas2.pdf"
   },
   {
     "materia": "Sist. Distrib.",
@@ -353,7 +387,8 @@
       "ter10",
       "sex9",
       "sex10"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/6_-_sd_5wtWxJf.pdf"
   },
   {
     "materia": "D. A. C.",
@@ -362,7 +397,8 @@
     "horarios": [
       "ter4",
       "qua4"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/6_-_DAC.pdf"
   },
   {
     "materia": "I. H. C.",
@@ -371,7 +407,8 @@
     "horarios": [
       "ter5",
       "qua5"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/6_-_ihc.pdf"
   },
   {
     "materia": "Prog. Móveis",
@@ -382,10 +419,11 @@
       "seg7",
       "qua6",
       "qua7"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/6_-_pdm.pdf"
   },
   {
-    "materia": "Libras (Optativa)",
+    "materia": "Optativa",
     "professor": "Ildegarde Elouise Alves",
     "periodo": 6,
     "horarios": [
@@ -393,6 +431,7 @@
       "seg11",
       "qui10",
       "qui11"
-    ]
+    ],
+    "link":"https://estudante.ifpb.edu.br/media/cursos/12/disciplina/6_-_optativa.pdf"
   }
 ]
